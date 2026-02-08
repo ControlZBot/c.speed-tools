@@ -1,0 +1,2 @@
+class PollsService:
+    pass
