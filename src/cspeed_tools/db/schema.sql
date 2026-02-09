@@ -1,0 +1,55 @@
+CREATE TABLE IF NOT EXISTS global_bans (
+  user_id BIGINT PRIMARY KEY,
+  reason TEXT NOT NULL,
+  actor_id BIGINT NOT NULL,
+  created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS staff_audit (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  guild_id BIGINT,
+  actor_id BIGINT NOT NULL,
+  action TEXT NOT NULL,
+  reason TEXT NOT NULL,
+  created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS tickets (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  guild_id BIGINT NOT NULL,
+  channel_id BIGINT NOT NULL,
+  created_by BIGINT NOT NULL,
+  status TEXT NOT NULL DEFAULT 'open',
+  claimed_by BIGINT,
+  claimed_at TIMESTAMP,
+  closed_by BIGINT,
+  closed_at TIMESTAMP,
+  transcript_path TEXT
+);
+
+CREATE TABLE IF NOT EXISTS ticket_messages (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  ticket_id INTEGER NOT NULL,
+  author_id BIGINT NOT NULL,
+  content TEXT NOT NULL,
+  created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  FOREIGN KEY(ticket_id) REFERENCES tickets(id)
+);
+
+CREATE TABLE IF NOT EXISTS cases (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  guild_id BIGINT NOT NULL,
+  actor_id BIGINT NOT NULL,
+  target_id BIGINT NOT NULL,
+  action TEXT NOT NULL,
+  reason TEXT NOT NULL,
+  created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS level_xp (
+  guild_id BIGINT NOT NULL,
+  user_id BIGINT NOT NULL,
+  xp INTEGER NOT NULL DEFAULT 0,
+  last_award_ts REAL NOT NULL DEFAULT 0,
+  PRIMARY KEY (guild_id, user_id)
+);
