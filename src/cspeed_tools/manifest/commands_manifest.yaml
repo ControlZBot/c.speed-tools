@@ -1,1149 +1,1149 @@
 endpoints:
-  - top: group01
-    path: /group01/cmd01
-  - top: group01
-    path: /group01/cmd02
-  - top: group01
-    path: /group01/cmd03
-  - top: group01
-    path: /group01/cmd04
-  - top: group01
-    path: /group01/cmd05
-  - top: group01
-    path: /group01/cmd06
-  - top: group01
-    path: /group01/cmd07
-  - top: group01
-    path: /group01/cmd08
-  - top: group01
-    path: /group01/cmd09
-  - top: group01
-    path: /group01/cmd10
-  - top: group01
-    path: /group01/cmd11
-  - top: group01
-    path: /group01/cmd12
-  - top: group01
-    path: /group01/cmd13
-  - top: group01
-    path: /group01/cmd14
-  - top: group01
-    path: /group01/cmd15
-  - top: group01
-    path: /group01/cmd16
-  - top: group02
-    path: /group02/cmd01
-  - top: group02
-    path: /group02/cmd02
-  - top: group02
-    path: /group02/cmd03
-  - top: group02
-    path: /group02/cmd04
-  - top: group02
-    path: /group02/cmd05
-  - top: group02
-    path: /group02/cmd06
-  - top: group02
-    path: /group02/cmd07
-  - top: group02
-    path: /group02/cmd08
-  - top: group02
-    path: /group02/cmd09
-  - top: group02
-    path: /group02/cmd10
-  - top: group02
-    path: /group02/cmd11
-  - top: group02
-    path: /group02/cmd12
-  - top: group02
-    path: /group02/cmd13
-  - top: group02
-    path: /group02/cmd14
-  - top: group02
-    path: /group02/cmd15
-  - top: group02
-    path: /group02/cmd16
-  - top: group03
-    path: /group03/cmd01
-  - top: group03
-    path: /group03/cmd02
-  - top: group03
-    path: /group03/cmd03
-  - top: group03
-    path: /group03/cmd04
-  - top: group03
-    path: /group03/cmd05
-  - top: group03
-    path: /group03/cmd06
-  - top: group03
-    path: /group03/cmd07
-  - top: group03
-    path: /group03/cmd08
-  - top: group03
-    path: /group03/cmd09
-  - top: group03
-    path: /group03/cmd10
-  - top: group03
-    path: /group03/cmd11
-  - top: group03
-    path: /group03/cmd12
-  - top: group03
-    path: /group03/cmd13
-  - top: group03
-    path: /group03/cmd14
-  - top: group03
-    path: /group03/cmd15
-  - top: group03
-    path: /group03/cmd16
-  - top: group04
-    path: /group04/cmd01
-  - top: group04
-    path: /group04/cmd02
-  - top: group04
-    path: /group04/cmd03
-  - top: group04
-    path: /group04/cmd04
-  - top: group04
-    path: /group04/cmd05
-  - top: group04
-    path: /group04/cmd06
-  - top: group04
-    path: /group04/cmd07
-  - top: group04
-    path: /group04/cmd08
-  - top: group04
-    path: /group04/cmd09
-  - top: group04
-    path: /group04/cmd10
-  - top: group04
-    path: /group04/cmd11
-  - top: group04
-    path: /group04/cmd12
-  - top: group04
-    path: /group04/cmd13
-  - top: group04
-    path: /group04/cmd14
-  - top: group04
-    path: /group04/cmd15
-  - top: group04
-    path: /group04/cmd16
-  - top: group05
-    path: /group05/cmd01
-  - top: group05
-    path: /group05/cmd02
-  - top: group05
-    path: /group05/cmd03
-  - top: group05
-    path: /group05/cmd04
-  - top: group05
-    path: /group05/cmd05
-  - top: group05
-    path: /group05/cmd06
-  - top: group05
-    path: /group05/cmd07
-  - top: group05
-    path: /group05/cmd08
-  - top: group05
-    path: /group05/cmd09
-  - top: group05
-    path: /group05/cmd10
-  - top: group05
-    path: /group05/cmd11
-  - top: group05
-    path: /group05/cmd12
-  - top: group05
-    path: /group05/cmd13
-  - top: group05
-    path: /group05/cmd14
-  - top: group05
-    path: /group05/cmd15
-  - top: group05
-    path: /group05/cmd16
-  - top: group06
-    path: /group06/cmd01
-  - top: group06
-    path: /group06/cmd02
-  - top: group06
-    path: /group06/cmd03
-  - top: group06
-    path: /group06/cmd04
-  - top: group06
-    path: /group06/cmd05
-  - top: group06
-    path: /group06/cmd06
-  - top: group06
-    path: /group06/cmd07
-  - top: group06
-    path: /group06/cmd08
-  - top: group06
-    path: /group06/cmd09
-  - top: group06
-    path: /group06/cmd10
-  - top: group06
-    path: /group06/cmd11
-  - top: group06
-    path: /group06/cmd12
-  - top: group06
-    path: /group06/cmd13
-  - top: group06
-    path: /group06/cmd14
-  - top: group06
-    path: /group06/cmd15
-  - top: group06
-    path: /group06/cmd16
-  - top: group07
-    path: /group07/cmd01
-  - top: group07
-    path: /group07/cmd02
-  - top: group07
-    path: /group07/cmd03
-  - top: group07
-    path: /group07/cmd04
-  - top: group07
-    path: /group07/cmd05
-  - top: group07
-    path: /group07/cmd06
-  - top: group07
-    path: /group07/cmd07
-  - top: group07
-    path: /group07/cmd08
-  - top: group07
-    path: /group07/cmd09
-  - top: group07
-    path: /group07/cmd10
-  - top: group07
-    path: /group07/cmd11
-  - top: group07
-    path: /group07/cmd12
-  - top: group07
-    path: /group07/cmd13
-  - top: group07
-    path: /group07/cmd14
-  - top: group07
-    path: /group07/cmd15
-  - top: group07
-    path: /group07/cmd16
-  - top: group08
-    path: /group08/cmd01
-  - top: group08
-    path: /group08/cmd02
-  - top: group08
-    path: /group08/cmd03
-  - top: group08
-    path: /group08/cmd04
-  - top: group08
-    path: /group08/cmd05
-  - top: group08
-    path: /group08/cmd06
-  - top: group08
-    path: /group08/cmd07
-  - top: group08
-    path: /group08/cmd08
-  - top: group08
-    path: /group08/cmd09
-  - top: group08
-    path: /group08/cmd10
-  - top: group08
-    path: /group08/cmd11
-  - top: group08
-    path: /group08/cmd12
-  - top: group08
-    path: /group08/cmd13
-  - top: group08
-    path: /group08/cmd14
-  - top: group08
-    path: /group08/cmd15
-  - top: group08
-    path: /group08/cmd16
-  - top: group09
-    path: /group09/cmd01
-  - top: group09
-    path: /group09/cmd02
-  - top: group09
-    path: /group09/cmd03
-  - top: group09
-    path: /group09/cmd04
-  - top: group09
-    path: /group09/cmd05
-  - top: group09
-    path: /group09/cmd06
-  - top: group09
-    path: /group09/cmd07
-  - top: group09
-    path: /group09/cmd08
-  - top: group09
-    path: /group09/cmd09
-  - top: group09
-    path: /group09/cmd10
-  - top: group09
-    path: /group09/cmd11
-  - top: group09
-    path: /group09/cmd12
-  - top: group09
-    path: /group09/cmd13
-  - top: group09
-    path: /group09/cmd14
-  - top: group09
-    path: /group09/cmd15
-  - top: group09
-    path: /group09/cmd16
-  - top: group10
-    path: /group10/cmd01
-  - top: group10
-    path: /group10/cmd02
-  - top: group10
-    path: /group10/cmd03
-  - top: group10
-    path: /group10/cmd04
-  - top: group10
-    path: /group10/cmd05
-  - top: group10
-    path: /group10/cmd06
-  - top: group10
-    path: /group10/cmd07
-  - top: group10
-    path: /group10/cmd08
-  - top: group10
-    path: /group10/cmd09
-  - top: group10
-    path: /group10/cmd10
-  - top: group10
-    path: /group10/cmd11
-  - top: group10
-    path: /group10/cmd12
-  - top: group10
-    path: /group10/cmd13
-  - top: group10
-    path: /group10/cmd14
-  - top: group10
-    path: /group10/cmd15
-  - top: group10
-    path: /group10/cmd16
-  - top: group11
-    path: /group11/cmd01
-  - top: group11
-    path: /group11/cmd02
-  - top: group11
-    path: /group11/cmd03
-  - top: group11
-    path: /group11/cmd04
-  - top: group11
-    path: /group11/cmd05
-  - top: group11
-    path: /group11/cmd06
-  - top: group11
-    path: /group11/cmd07
-  - top: group11
-    path: /group11/cmd08
-  - top: group11
-    path: /group11/cmd09
-  - top: group11
-    path: /group11/cmd10
-  - top: group11
-    path: /group11/cmd11
-  - top: group11
-    path: /group11/cmd12
-  - top: group11
-    path: /group11/cmd13
-  - top: group11
-    path: /group11/cmd14
-  - top: group11
-    path: /group11/cmd15
-  - top: group11
-    path: /group11/cmd16
-  - top: group12
-    path: /group12/cmd01
-  - top: group12
-    path: /group12/cmd02
-  - top: group12
-    path: /group12/cmd03
-  - top: group12
-    path: /group12/cmd04
-  - top: group12
-    path: /group12/cmd05
-  - top: group12
-    path: /group12/cmd06
-  - top: group12
-    path: /group12/cmd07
-  - top: group12
-    path: /group12/cmd08
-  - top: group12
-    path: /group12/cmd09
-  - top: group12
-    path: /group12/cmd10
-  - top: group12
-    path: /group12/cmd11
-  - top: group12
-    path: /group12/cmd12
-  - top: group12
-    path: /group12/cmd13
-  - top: group12
-    path: /group12/cmd14
-  - top: group12
-    path: /group12/cmd15
-  - top: group12
-    path: /group12/cmd16
-  - top: group13
-    path: /group13/cmd01
-  - top: group13
-    path: /group13/cmd02
-  - top: group13
-    path: /group13/cmd03
-  - top: group13
-    path: /group13/cmd04
-  - top: group13
-    path: /group13/cmd05
-  - top: group13
-    path: /group13/cmd06
-  - top: group13
-    path: /group13/cmd07
-  - top: group13
-    path: /group13/cmd08
-  - top: group13
-    path: /group13/cmd09
-  - top: group13
-    path: /group13/cmd10
-  - top: group13
-    path: /group13/cmd11
-  - top: group13
-    path: /group13/cmd12
-  - top: group13
-    path: /group13/cmd13
-  - top: group13
-    path: /group13/cmd14
-  - top: group13
-    path: /group13/cmd15
-  - top: group13
-    path: /group13/cmd16
-  - top: group14
-    path: /group14/cmd01
-  - top: group14
-    path: /group14/cmd02
-  - top: group14
-    path: /group14/cmd03
-  - top: group14
-    path: /group14/cmd04
-  - top: group14
-    path: /group14/cmd05
-  - top: group14
-    path: /group14/cmd06
-  - top: group14
-    path: /group14/cmd07
-  - top: group14
-    path: /group14/cmd08
-  - top: group14
-    path: /group14/cmd09
-  - top: group14
-    path: /group14/cmd10
-  - top: group14
-    path: /group14/cmd11
-  - top: group14
-    path: /group14/cmd12
-  - top: group14
-    path: /group14/cmd13
-  - top: group14
-    path: /group14/cmd14
-  - top: group14
-    path: /group14/cmd15
-  - top: group14
-    path: /group14/cmd16
-  - top: group15
-    path: /group15/cmd01
-  - top: group15
-    path: /group15/cmd02
-  - top: group15
-    path: /group15/cmd03
-  - top: group15
-    path: /group15/cmd04
-  - top: group15
-    path: /group15/cmd05
-  - top: group15
-    path: /group15/cmd06
-  - top: group15
-    path: /group15/cmd07
-  - top: group15
-    path: /group15/cmd08
-  - top: group15
-    path: /group15/cmd09
-  - top: group15
-    path: /group15/cmd10
-  - top: group15
-    path: /group15/cmd11
-  - top: group15
-    path: /group15/cmd12
-  - top: group15
-    path: /group15/cmd13
-  - top: group15
-    path: /group15/cmd14
-  - top: group15
-    path: /group15/cmd15
-  - top: group15
-    path: /group15/cmd16
-  - top: group16
-    path: /group16/cmd01
-  - top: group16
-    path: /group16/cmd02
-  - top: group16
-    path: /group16/cmd03
-  - top: group16
-    path: /group16/cmd04
-  - top: group16
-    path: /group16/cmd05
-  - top: group16
-    path: /group16/cmd06
-  - top: group16
-    path: /group16/cmd07
-  - top: group16
-    path: /group16/cmd08
-  - top: group16
-    path: /group16/cmd09
-  - top: group16
-    path: /group16/cmd10
-  - top: group16
-    path: /group16/cmd11
-  - top: group16
-    path: /group16/cmd12
-  - top: group16
-    path: /group16/cmd13
-  - top: group16
-    path: /group16/cmd14
-  - top: group16
-    path: /group16/cmd15
-  - top: group16
-    path: /group16/cmd16
-  - top: group17
-    path: /group17/cmd01
-  - top: group17
-    path: /group17/cmd02
-  - top: group17
-    path: /group17/cmd03
-  - top: group17
-    path: /group17/cmd04
-  - top: group17
-    path: /group17/cmd05
-  - top: group17
-    path: /group17/cmd06
-  - top: group17
-    path: /group17/cmd07
-  - top: group17
-    path: /group17/cmd08
-  - top: group17
-    path: /group17/cmd09
-  - top: group17
-    path: /group17/cmd10
-  - top: group17
-    path: /group17/cmd11
-  - top: group17
-    path: /group17/cmd12
-  - top: group17
-    path: /group17/cmd13
-  - top: group17
-    path: /group17/cmd14
-  - top: group17
-    path: /group17/cmd15
-  - top: group17
-    path: /group17/cmd16
-  - top: group18
-    path: /group18/cmd01
-  - top: group18
-    path: /group18/cmd02
-  - top: group18
-    path: /group18/cmd03
-  - top: group18
-    path: /group18/cmd04
-  - top: group18
-    path: /group18/cmd05
-  - top: group18
-    path: /group18/cmd06
-  - top: group18
-    path: /group18/cmd07
-  - top: group18
-    path: /group18/cmd08
-  - top: group18
-    path: /group18/cmd09
-  - top: group18
-    path: /group18/cmd10
-  - top: group18
-    path: /group18/cmd11
-  - top: group18
-    path: /group18/cmd12
-  - top: group18
-    path: /group18/cmd13
-  - top: group18
-    path: /group18/cmd14
-  - top: group18
-    path: /group18/cmd15
-  - top: group18
-    path: /group18/cmd16
-  - top: group19
-    path: /group19/cmd01
-  - top: group19
-    path: /group19/cmd02
-  - top: group19
-    path: /group19/cmd03
-  - top: group19
-    path: /group19/cmd04
-  - top: group19
-    path: /group19/cmd05
-  - top: group19
-    path: /group19/cmd06
-  - top: group19
-    path: /group19/cmd07
-  - top: group19
-    path: /group19/cmd08
-  - top: group19
-    path: /group19/cmd09
-  - top: group19
-    path: /group19/cmd10
-  - top: group19
-    path: /group19/cmd11
-  - top: group19
-    path: /group19/cmd12
-  - top: group19
-    path: /group19/cmd13
-  - top: group19
-    path: /group19/cmd14
-  - top: group19
-    path: /group19/cmd15
-  - top: group19
-    path: /group19/cmd16
-  - top: group20
-    path: /group20/cmd01
-  - top: group20
-    path: /group20/cmd02
-  - top: group20
-    path: /group20/cmd03
-  - top: group20
-    path: /group20/cmd04
-  - top: group20
-    path: /group20/cmd05
-  - top: group20
-    path: /group20/cmd06
-  - top: group20
-    path: /group20/cmd07
-  - top: group20
-    path: /group20/cmd08
-  - top: group20
-    path: /group20/cmd09
-  - top: group20
-    path: /group20/cmd10
-  - top: group20
-    path: /group20/cmd11
-  - top: group20
-    path: /group20/cmd12
-  - top: group20
-    path: /group20/cmd13
-  - top: group20
-    path: /group20/cmd14
-  - top: group20
-    path: /group20/cmd15
-  - top: group20
-    path: /group20/cmd16
-  - top: group21
-    path: /group21/cmd01
-  - top: group21
-    path: /group21/cmd02
-  - top: group21
-    path: /group21/cmd03
-  - top: group21
-    path: /group21/cmd04
-  - top: group21
-    path: /group21/cmd05
-  - top: group21
-    path: /group21/cmd06
-  - top: group21
-    path: /group21/cmd07
-  - top: group21
-    path: /group21/cmd08
-  - top: group21
-    path: /group21/cmd09
-  - top: group21
-    path: /group21/cmd10
-  - top: group21
-    path: /group21/cmd11
-  - top: group21
-    path: /group21/cmd12
-  - top: group21
-    path: /group21/cmd13
-  - top: group21
-    path: /group21/cmd14
-  - top: group21
-    path: /group21/cmd15
-  - top: group21
-    path: /group21/cmd16
-  - top: group22
-    path: /group22/cmd01
-  - top: group22
-    path: /group22/cmd02
-  - top: group22
-    path: /group22/cmd03
-  - top: group22
-    path: /group22/cmd04
-  - top: group22
-    path: /group22/cmd05
-  - top: group22
-    path: /group22/cmd06
-  - top: group22
-    path: /group22/cmd07
-  - top: group22
-    path: /group22/cmd08
-  - top: group22
-    path: /group22/cmd09
-  - top: group22
-    path: /group22/cmd10
-  - top: group22
-    path: /group22/cmd11
-  - top: group22
-    path: /group22/cmd12
-  - top: group22
-    path: /group22/cmd13
-  - top: group22
-    path: /group22/cmd14
-  - top: group22
-    path: /group22/cmd15
-  - top: group22
-    path: /group22/cmd16
-  - top: group23
-    path: /group23/cmd01
-  - top: group23
-    path: /group23/cmd02
-  - top: group23
-    path: /group23/cmd03
-  - top: group23
-    path: /group23/cmd04
-  - top: group23
-    path: /group23/cmd05
-  - top: group23
-    path: /group23/cmd06
-  - top: group23
-    path: /group23/cmd07
-  - top: group23
-    path: /group23/cmd08
-  - top: group23
-    path: /group23/cmd09
-  - top: group23
-    path: /group23/cmd10
-  - top: group23
-    path: /group23/cmd11
-  - top: group23
-    path: /group23/cmd12
-  - top: group23
-    path: /group23/cmd13
-  - top: group23
-    path: /group23/cmd14
-  - top: group23
-    path: /group23/cmd15
-  - top: group23
-    path: /group23/cmd16
-  - top: group24
-    path: /group24/cmd01
-  - top: group24
-    path: /group24/cmd02
-  - top: group24
-    path: /group24/cmd03
-  - top: group24
-    path: /group24/cmd04
-  - top: group24
-    path: /group24/cmd05
-  - top: group24
-    path: /group24/cmd06
-  - top: group24
-    path: /group24/cmd07
-  - top: group24
-    path: /group24/cmd08
-  - top: group24
-    path: /group24/cmd09
-  - top: group24
-    path: /group24/cmd10
-  - top: group24
-    path: /group24/cmd11
-  - top: group24
-    path: /group24/cmd12
-  - top: group24
-    path: /group24/cmd13
-  - top: group24
-    path: /group24/cmd14
-  - top: group24
-    path: /group24/cmd15
-  - top: group24
-    path: /group24/cmd16
-  - top: group25
-    path: /group25/cmd01
-  - top: group25
-    path: /group25/cmd02
-  - top: group25
-    path: /group25/cmd03
-  - top: group25
-    path: /group25/cmd04
-  - top: group25
-    path: /group25/cmd05
-  - top: group25
-    path: /group25/cmd06
-  - top: group25
-    path: /group25/cmd07
-  - top: group25
-    path: /group25/cmd08
-  - top: group25
-    path: /group25/cmd09
-  - top: group25
-    path: /group25/cmd10
-  - top: group25
-    path: /group25/cmd11
-  - top: group25
-    path: /group25/cmd12
-  - top: group25
-    path: /group25/cmd13
-  - top: group25
-    path: /group25/cmd14
-  - top: group25
-    path: /group25/cmd15
-  - top: group25
-    path: /group25/cmd16
-  - top: group26
-    path: /group26/cmd01
-  - top: group26
-    path: /group26/cmd02
-  - top: group26
-    path: /group26/cmd03
-  - top: group26
-    path: /group26/cmd04
-  - top: group26
-    path: /group26/cmd05
-  - top: group26
-    path: /group26/cmd06
-  - top: group26
-    path: /group26/cmd07
-  - top: group26
-    path: /group26/cmd08
-  - top: group26
-    path: /group26/cmd09
-  - top: group26
-    path: /group26/cmd10
-  - top: group26
-    path: /group26/cmd11
-  - top: group26
-    path: /group26/cmd12
-  - top: group26
-    path: /group26/cmd13
-  - top: group26
-    path: /group26/cmd14
-  - top: group26
-    path: /group26/cmd15
-  - top: group26
-    path: /group26/cmd16
-  - top: group27
-    path: /group27/cmd01
-  - top: group27
-    path: /group27/cmd02
-  - top: group27
-    path: /group27/cmd03
-  - top: group27
-    path: /group27/cmd04
-  - top: group27
-    path: /group27/cmd05
-  - top: group27
-    path: /group27/cmd06
-  - top: group27
-    path: /group27/cmd07
-  - top: group27
-    path: /group27/cmd08
-  - top: group27
-    path: /group27/cmd09
-  - top: group27
-    path: /group27/cmd10
-  - top: group27
-    path: /group27/cmd11
-  - top: group27
-    path: /group27/cmd12
-  - top: group27
-    path: /group27/cmd13
-  - top: group27
-    path: /group27/cmd14
-  - top: group27
-    path: /group27/cmd15
-  - top: group27
-    path: /group27/cmd16
-  - top: group28
-    path: /group28/cmd01
-  - top: group28
-    path: /group28/cmd02
-  - top: group28
-    path: /group28/cmd03
-  - top: group28
-    path: /group28/cmd04
-  - top: group28
-    path: /group28/cmd05
-  - top: group28
-    path: /group28/cmd06
-  - top: group28
-    path: /group28/cmd07
-  - top: group28
-    path: /group28/cmd08
-  - top: group28
-    path: /group28/cmd09
-  - top: group28
-    path: /group28/cmd10
-  - top: group28
-    path: /group28/cmd11
-  - top: group28
-    path: /group28/cmd12
-  - top: group28
-    path: /group28/cmd13
-  - top: group28
-    path: /group28/cmd14
-  - top: group28
-    path: /group28/cmd15
-  - top: group28
-    path: /group28/cmd16
-  - top: group29
-    path: /group29/cmd01
-  - top: group29
-    path: /group29/cmd02
-  - top: group29
-    path: /group29/cmd03
-  - top: group29
-    path: /group29/cmd04
-  - top: group29
-    path: /group29/cmd05
-  - top: group29
-    path: /group29/cmd06
-  - top: group29
-    path: /group29/cmd07
-  - top: group29
-    path: /group29/cmd08
-  - top: group29
-    path: /group29/cmd09
-  - top: group29
-    path: /group29/cmd10
-  - top: group29
-    path: /group29/cmd11
-  - top: group29
-    path: /group29/cmd12
-  - top: group29
-    path: /group29/cmd13
-  - top: group29
-    path: /group29/cmd14
-  - top: group29
-    path: /group29/cmd15
-  - top: group29
-    path: /group29/cmd16
-  - top: group30
-    path: /group30/cmd01
-  - top: group30
-    path: /group30/cmd02
-  - top: group30
-    path: /group30/cmd03
-  - top: group30
-    path: /group30/cmd04
-  - top: group30
-    path: /group30/cmd05
-  - top: group30
-    path: /group30/cmd06
-  - top: group30
-    path: /group30/cmd07
-  - top: group30
-    path: /group30/cmd08
-  - top: group30
-    path: /group30/cmd09
-  - top: group30
-    path: /group30/cmd10
-  - top: group30
-    path: /group30/cmd11
-  - top: group30
-    path: /group30/cmd12
-  - top: group30
-    path: /group30/cmd13
-  - top: group30
-    path: /group30/cmd14
-  - top: group30
-    path: /group30/cmd15
-  - top: group30
-    path: /group30/cmd16
-  - top: group31
-    path: /group31/cmd01
-  - top: group31
-    path: /group31/cmd02
-  - top: group31
-    path: /group31/cmd03
-  - top: group31
-    path: /group31/cmd04
-  - top: group31
-    path: /group31/cmd05
-  - top: group31
-    path: /group31/cmd06
-  - top: group31
-    path: /group31/cmd07
-  - top: group31
-    path: /group31/cmd08
-  - top: group31
-    path: /group31/cmd09
-  - top: group31
-    path: /group31/cmd10
-  - top: group31
-    path: /group31/cmd11
-  - top: group31
-    path: /group31/cmd12
-  - top: group31
-    path: /group31/cmd13
-  - top: group31
-    path: /group31/cmd14
-  - top: group31
-    path: /group31/cmd15
-  - top: group31
-    path: /group31/cmd16
-  - top: group32
-    path: /group32/cmd01
-  - top: group32
-    path: /group32/cmd02
-  - top: group32
-    path: /group32/cmd03
-  - top: group32
-    path: /group32/cmd04
-  - top: group32
-    path: /group32/cmd05
-  - top: group32
-    path: /group32/cmd06
-  - top: group32
-    path: /group32/cmd07
-  - top: group32
-    path: /group32/cmd08
-  - top: group32
-    path: /group32/cmd09
-  - top: group32
-    path: /group32/cmd10
-  - top: group32
-    path: /group32/cmd11
-  - top: group32
-    path: /group32/cmd12
-  - top: group32
-    path: /group32/cmd13
-  - top: group32
-    path: /group32/cmd14
-  - top: group32
-    path: /group32/cmd15
-  - top: group32
-    path: /group32/cmd16
-  - top: owner
-    path: /owner/global/globalban_add
-  - top: owner
-    path: /owner/global/globalban_remove
-  - top: owner
-    path: /owner/global/globalban_list
-  - top: owner
-    path: /owner/global/globalban_reason
-  - top: owner
-    path: /owner/global/globalban_sync
-  - top: owner
-    path: /owner/global/globalunban_sync
-  - top: owner
-    path: /owner/global/globalban_check
-  - top: owner
-    path: /owner/global/globalban_export
-  - top: owner
-    path: /owner/global/globalmute_add
-  - top: owner
-    path: /owner/global/globalmute_remove
-  - top: owner
-    path: /owner/global/globalmute_list
-  - top: owner
-    path: /owner/global/globalkick
-  - top: owner
-    path: /owner/global/globalsoftban
-  - top: owner
-    path: /owner/global/globalquarantine
-  - top: owner
-    path: /owner/global/globalscan
-  - top: owner
-    path: /owner/global/globalstatus
-  - top: owner
-    path: /owner/ops/owner_info
-  - top: owner
-    path: /owner/ops/owner_set_status
-  - top: owner
-    path: /owner/ops/owner_set_presence
-  - top: owner
-    path: /owner/ops/owner_logs_export
-  - top: owner
-    path: /owner/ops/owner_feature_flags
-  - top: owner
-    path: /owner/ops/owner_db_health
-  - top: owner
-    path: /owner/ops/owner_run_migrations
-  - top: owner
-    path: /owner/ops/owner_cache_clear
-  - top: owner
-    path: /owner/ops/owner_guild_allow_add
-  - top: owner
-    path: /owner/ops/owner_guild_allow_remove
-  - top: owner
-    path: /owner/ops/owner_guild_allow_list
-  - top: owner
-    path: /owner/ops/owner_cmd_disable
-  - top: owner
-    path: /owner/ops/owner_cmd_enable
-  - top: owner
-    path: /owner/ops/owner_emergency_lockdown
-  - top: owner
-    path: /owner/ops/owner_emergency_unlock
-  - top: owner
-    path: /owner/ops/owner_version
-  - top: misc
-    path: /misc/tools/paste
-  - top: misc
-    path: /misc/tools/whois
-  - top: misc
-    path: /misc/tools/id
-  - top: misc
-    path: /misc/tools/snowflake_time
-  - top: misc
-    path: /misc/tools/color_convert
-  - top: misc
-    path: /misc/tools/base64
-  - top: misc
-    path: /misc/tools/hash
-  - top: misc
-    path: /misc/tools/uuid
-  - top: misc
-    path: /misc/tools/ping_raw
-  - top: misc
-    path: /misc/tools/perms_diag
-  - top: misc
-    path: /misc/tools/rate_limits
-  - top: misc
-    path: /misc/tools/json_validate
-  - top: misc
-    path: /misc/tools/markdown_escape
-  - top: misc
-    path: /misc/tools/text_diff
-  - top: misc
-    path: /misc/tools/timezones
-  - top: misc
-    path: /misc/extras/afk_set
-  - top: misc
-    path: /misc/extras/afk_clear
-  - top: misc
-    path: /misc/extras/afk_status
-  - top: misc
-    path: /misc/extras/quicknote_add
-  - top: misc
-    path: /misc/extras/quicknote_list
-  - top: misc
-    path: /misc/extras/quicknote_del
-  - top: misc
-    path: /misc/extras/template_add
-  - top: misc
-    path: /misc/extras/template_list
-  - top: misc
-    path: /misc/extras/template_del
-  - top: misc
-    path: /misc/extras/cleanlinks
-  - top: misc
-    path: /misc/extras/roleping_check
-  - top: misc
-    path: /misc/extras/channel_health
-  - top: misc
-    path: /misc/extras/message_stats
-  - top: misc
-    path: /misc/extras/mini_backup
-  - top: misc
-    path: /misc/extras/mini_restore
+- top: moderation
+  path: /moderation/ban
+- top: moderation
+  path: /moderation/unban
+- top: moderation
+  path: /moderation/kick
+- top: moderation
+  path: /moderation/mute
+- top: moderation
+  path: /moderation/unmute
+- top: moderation
+  path: /moderation/timeout
+- top: moderation
+  path: /moderation/untimeout
+- top: moderation
+  path: /moderation/warn
+- top: moderation
+  path: /moderation/warnings
+- top: moderation
+  path: /moderation/clear_warnings
+- top: moderation
+  path: /moderation/purge
+- top: moderation
+  path: /moderation/slowmode
+- top: moderation
+  path: /moderation/lock
+- top: moderation
+  path: /moderation/unlock
+- top: moderation
+  path: /moderation/nick
+- top: moderation
+  path: /moderation/reason_set
+- top: automod
+  path: /automod/automod_enable
+- top: automod
+  path: /automod/automod_disable
+- top: automod
+  path: /automod/link_filter_on
+- top: automod
+  path: /automod/link_filter_off
+- top: automod
+  path: /automod/invite_filter_on
+- top: automod
+  path: /automod/invite_filter_off
+- top: automod
+  path: /automod/caps_filter_on
+- top: automod
+  path: /automod/caps_filter_off
+- top: automod
+  path: /automod/spam_filter_on
+- top: automod
+  path: /automod/spam_filter_off
+- top: automod
+  path: /automod/mention_filter_on
+- top: automod
+  path: /automod/mention_filter_off
+- top: automod
+  path: /automod/badwords_add
+- top: automod
+  path: /automod/badwords_del
+- top: automod
+  path: /automod/badwords_list
+- top: automod
+  path: /automod/automod_status
+- top: cases
+  path: /cases/case_view
+- top: cases
+  path: /cases/case_edit_reason
+- top: cases
+  path: /cases/case_delete
+- top: cases
+  path: /cases/case_list_user
+- top: cases
+  path: /cases/case_list_staff
+- top: cases
+  path: /cases/case_recent
+- top: cases
+  path: /cases/case_export
+- top: cases
+  path: /cases/case_import
+- top: cases
+  path: /cases/case_link_message
+- top: cases
+  path: /cases/case_unlink_message
+- top: cases
+  path: /cases/case_note_add
+- top: cases
+  path: /cases/case_note_del
+- top: cases
+  path: /cases/case_note_list
+- top: cases
+  path: /cases/case_reopen
+- top: cases
+  path: /cases/case_close
+- top: cases
+  path: /cases/case_stats
+- top: logs
+  path: /logs/log_channel_set
+- top: logs
+  path: /logs/log_channel_clear
+- top: logs
+  path: /logs/log_event_enable
+- top: logs
+  path: /logs/log_event_disable
+- top: logs
+  path: /logs/log_event_list
+- top: logs
+  path: /logs/log_test
+- top: logs
+  path: /logs/log_webhook_set
+- top: logs
+  path: /logs/log_webhook_clear
+- top: logs
+  path: /logs/log_ignore_channel_add
+- top: logs
+  path: /logs/log_ignore_channel_del
+- top: logs
+  path: /logs/log_ignore_role_add
+- top: logs
+  path: /logs/log_ignore_role_del
+- top: logs
+  path: /logs/log_retention_set
+- top: logs
+  path: /logs/log_retention_get
+- top: logs
+  path: /logs/log_redact
+- top: logs
+  path: /logs/log_status
+- top: server
+  path: /server/server_info
+- top: server
+  path: /server/server_settings
+- top: server
+  path: /server/server_icon
+- top: server
+  path: /server/server_banner
+- top: server
+  path: /server/server_splash
+- top: server
+  path: /server/server_boosts
+- top: server
+  path: /server/server_roles
+- top: server
+  path: /server/server_channels
+- top: server
+  path: /server/server_emojis
+- top: server
+  path: /server/server_stickers
+- top: server
+  path: /server/server_features
+- top: server
+  path: /server/server_verification
+- top: server
+  path: /server/server_prune
+- top: server
+  path: /server/server_prune_dryrun
+- top: server
+  path: /server/server_locale
+- top: server
+  path: /server/server_owner
+- top: channels
+  path: /channels/channel_create_text
+- top: channels
+  path: /channels/channel_create_voice
+- top: channels
+  path: /channels/channel_create_forum
+- top: channels
+  path: /channels/channel_delete
+- top: channels
+  path: /channels/channel_clone
+- top: channels
+  path: /channels/channel_topic_set
+- top: channels
+  path: /channels/channel_nsfw_set
+- top: channels
+  path: /channels/channel_slowmode_set
+- top: channels
+  path: /channels/channel_lock
+- top: channels
+  path: /channels/channel_unlock
+- top: channels
+  path: /channels/channel_category_set
+- top: channels
+  path: /channels/channel_position_set
+- top: channels
+  path: /channels/channel_permissions_view
+- top: channels
+  path: /channels/channel_permissions_sync
+- top: channels
+  path: /channels/channel_archive_threads
+- top: channels
+  path: /channels/channel_status
+- top: roles
+  path: /roles/role_create
+- top: roles
+  path: /roles/role_delete
+- top: roles
+  path: /roles/role_rename
+- top: roles
+  path: /roles/role_color
+- top: roles
+  path: /roles/role_icon
+- top: roles
+  path: /roles/role_hoist
+- top: roles
+  path: /roles/role_mentionable
+- top: roles
+  path: /roles/role_permissions_set
+- top: roles
+  path: /roles/role_permissions_view
+- top: roles
+  path: /roles/role_assign
+- top: roles
+  path: /roles/role_remove
+- top: roles
+  path: /roles/role_mass_assign
+- top: roles
+  path: /roles/role_mass_remove
+- top: roles
+  path: /roles/role_position_set
+- top: roles
+  path: /roles/role_members
+- top: roles
+  path: /roles/role_status
+- top: members
+  path: /members/member_info
+- top: members
+  path: /members/member_avatar
+- top: members
+  path: /members/member_banner
+- top: members
+  path: /members/member_roles
+- top: members
+  path: /members/member_joined
+- top: members
+  path: /members/member_invites
+- top: members
+  path: /members/member_notes_add
+- top: members
+  path: /members/member_notes_del
+- top: members
+  path: /members/member_notes_list
+- top: members
+  path: /members/member_history
+- top: members
+  path: /members/member_verify
+- top: members
+  path: /members/member_unverify
+- top: members
+  path: /members/member_quarantine
+- top: members
+  path: /members/member_unquarantine
+- top: members
+  path: /members/member_dm
+- top: members
+  path: /members/member_status
+- top: tickets
+  path: /tickets/panel_create
+- top: tickets
+  path: /tickets/panel_delete
+- top: tickets
+  path: /tickets/open
+- top: tickets
+  path: /tickets/claim
+- top: tickets
+  path: /tickets/unclaim
+- top: tickets
+  path: /tickets/add_user
+- top: tickets
+  path: /tickets/remove_user
+- top: tickets
+  path: /tickets/rename
+- top: tickets
+  path: /tickets/priority_set
+- top: tickets
+  path: /tickets/category_set
+- top: tickets
+  path: /tickets/close
+- top: tickets
+  path: /tickets/reopen
+- top: tickets
+  path: /tickets/transcript
+- top: tickets
+  path: /tickets/assign
+- top: tickets
+  path: /tickets/list_open
+- top: tickets
+  path: /tickets/settings
+- top: levels
+  path: /levels/levels_enable
+- top: levels
+  path: /levels/levels_disable
+- top: levels
+  path: /levels/xp_add
+- top: levels
+  path: /levels/xp_remove
+- top: levels
+  path: /levels/xp_set
+- top: levels
+  path: /levels/xp_view
+- top: levels
+  path: /levels/rank
+- top: levels
+  path: /levels/leaderboard
+- top: levels
+  path: /levels/roles_add
+- top: levels
+  path: /levels/roles_remove
+- top: levels
+  path: /levels/roles_list
+- top: levels
+  path: /levels/cooldown_set
+- top: levels
+  path: /levels/message_xp_set
+- top: levels
+  path: /levels/voice_xp_set
+- top: levels
+  path: /levels/reset_user
+- top: levels
+  path: /levels/reset_all
+- top: economy
+  path: /economy/balance
+- top: economy
+  path: /economy/daily
+- top: economy
+  path: /economy/weekly
+- top: economy
+  path: /economy/pay
+- top: economy
+  path: /economy/add_funds
+- top: economy
+  path: /economy/remove_funds
+- top: economy
+  path: /economy/set_funds
+- top: economy
+  path: /economy/shop_add
+- top: economy
+  path: /economy/shop_del
+- top: economy
+  path: /economy/shop_list
+- top: economy
+  path: /economy/buy
+- top: economy
+  path: /economy/inventory
+- top: economy
+  path: /economy/give_item
+- top: economy
+  path: /economy/take_item
+- top: economy
+  path: /economy/economy_reset_user
+- top: economy
+  path: /economy/economy_stats
+- top: fun
+  path: /fun/8ball
+- top: fun
+  path: /fun/coinflip
+- top: fun
+  path: /fun/roll
+- top: fun
+  path: /fun/choose
+- top: fun
+  path: /fun/ship
+- top: fun
+  path: /fun/meme
+- top: fun
+  path: /fun/joke
+- top: fun
+  path: /fun/fact
+- top: fun
+  path: /fun/roast
+- top: fun
+  path: /fun/compliment
+- top: fun
+  path: /fun/reverse
+- top: fun
+  path: /fun/mock
+- top: fun
+  path: /fun/ascii
+- top: fun
+  path: /fun/emoji_mix
+- top: fun
+  path: /fun/uwurize
+- top: fun
+  path: /fun/fun_status
+- top: games
+  path: /games/tictactoe
+- top: games
+  path: /games/connect4
+- top: games
+  path: /games/hangman
+- top: games
+  path: /games/trivia
+- top: games
+  path: /games/wordle
+- top: games
+  path: /games/memory
+- top: games
+  path: /games/rps
+- top: games
+  path: /games/rpsls
+- top: games
+  path: /games/guess_number
+- top: games
+  path: /games/blackjack
+- top: games
+  path: /games/slots
+- top: games
+  path: /games/minesweeper
+- top: games
+  path: /games/sudoku
+- top: games
+  path: /games/chess
+- top: games
+  path: /games/leaderboard
+- top: games
+  path: /games/games_status
+- top: utility
+  path: /utility/help
+- top: utility
+  path: /utility/about
+- top: utility
+  path: /utility/ping
+- top: utility
+  path: /utility/invite
+- top: utility
+  path: /utility/support
+- top: utility
+  path: /utility/changelog
+- top: utility
+  path: /utility/privacy
+- top: utility
+  path: /utility/terms
+- top: utility
+  path: /utility/calc
+- top: utility
+  path: /utility/translate
+- top: utility
+  path: /utility/timezone_convert
+- top: utility
+  path: /utility/timestamp
+- top: utility
+  path: /utility/weather
+- top: utility
+  path: /utility/unit_convert
+- top: utility
+  path: /utility/qr_create
+- top: utility
+  path: /utility/utility_status
+- top: reminders
+  path: /reminders/add
+- top: reminders
+  path: /reminders/list
+- top: reminders
+  path: /reminders/delete
+- top: reminders
+  path: /reminders/clear
+- top: reminders
+  path: /reminders/snooze
+- top: reminders
+  path: /reminders/edit
+- top: reminders
+  path: /reminders/timezone_set
+- top: reminders
+  path: /reminders/dm_toggle
+- top: reminders
+  path: /reminders/channel_set
+- top: reminders
+  path: /reminders/channel_clear
+- top: reminders
+  path: /reminders/repeat_set
+- top: reminders
+  path: /reminders/repeat_clear
+- top: reminders
+  path: /reminders/import
+- top: reminders
+  path: /reminders/export
+- top: reminders
+  path: /reminders/overdue
+- top: reminders
+  path: /reminders/status
+- top: welcome
+  path: /welcome/welcome_enable
+- top: welcome
+  path: /welcome/welcome_disable
+- top: welcome
+  path: /welcome/welcome_channel_set
+- top: welcome
+  path: /welcome/welcome_channel_clear
+- top: welcome
+  path: /welcome/welcome_message_set
+- top: welcome
+  path: /welcome/welcome_embed_set
+- top: welcome
+  path: /welcome/welcome_dm_enable
+- top: welcome
+  path: /welcome/welcome_dm_disable
+- top: welcome
+  path: /welcome/autorole_add
+- top: welcome
+  path: /welcome/autorole_del
+- top: welcome
+  path: /welcome/autorole_list
+- top: welcome
+  path: /welcome/goodbye_enable
+- top: welcome
+  path: /welcome/goodbye_disable
+- top: welcome
+  path: /welcome/goodbye_message_set
+- top: welcome
+  path: /welcome/preview
+- top: welcome
+  path: /welcome/status
+- top: verification
+  path: /verification/verify_enable
+- top: verification
+  path: /verification/verify_disable
+- top: verification
+  path: /verification/verify_channel_set
+- top: verification
+  path: /verification/verify_role_set
+- top: verification
+  path: /verification/verify_role_clear
+- top: verification
+  path: /verification/verify_message_set
+- top: verification
+  path: /verification/verify_mode_set
+- top: verification
+  path: /verification/verify_captcha_on
+- top: verification
+  path: /verification/verify_captcha_off
+- top: verification
+  path: /verification/verify_age_gate_set
+- top: verification
+  path: /verification/verify_age_gate_clear
+- top: verification
+  path: /verification/verify_bypass_add
+- top: verification
+  path: /verification/verify_bypass_del
+- top: verification
+  path: /verification/verify_bypass_list
+- top: verification
+  path: /verification/verify_force
+- top: verification
+  path: /verification/verify_status
+- top: starboard
+  path: /starboard/starboard_enable
+- top: starboard
+  path: /starboard/starboard_disable
+- top: starboard
+  path: /starboard/starboard_channel_set
+- top: starboard
+  path: /starboard/starboard_channel_clear
+- top: starboard
+  path: /starboard/starboard_threshold_set
+- top: starboard
+  path: /starboard/starboard_emoji_set
+- top: starboard
+  path: /starboard/starboard_blacklist_channel_add
+- top: starboard
+  path: /starboard/starboard_blacklist_channel_del
+- top: starboard
+  path: /starboard/starboard_blacklist_role_add
+- top: starboard
+  path: /starboard/starboard_blacklist_role_del
+- top: starboard
+  path: /starboard/starboard_featured
+- top: starboard
+  path: /starboard/starboard_remove
+- top: starboard
+  path: /starboard/starboard_restore
+- top: starboard
+  path: /starboard/starboard_stats
+- top: starboard
+  path: /starboard/starboard_refresh
+- top: starboard
+  path: /starboard/starboard_status
+- top: polls
+  path: /polls/poll_create
+- top: polls
+  path: /polls/poll_close
+- top: polls
+  path: /polls/poll_reopen
+- top: polls
+  path: /polls/poll_delete
+- top: polls
+  path: /polls/poll_list
+- top: polls
+  path: /polls/poll_view
+- top: polls
+  path: /polls/poll_vote_add
+- top: polls
+  path: /polls/poll_vote_remove
+- top: polls
+  path: /polls/poll_multi_on
+- top: polls
+  path: /polls/poll_multi_off
+- top: polls
+  path: /polls/poll_anonymous_on
+- top: polls
+  path: /polls/poll_anonymous_off
+- top: polls
+  path: /polls/poll_schedule
+- top: polls
+  path: /polls/poll_results
+- top: polls
+  path: /polls/poll_export
+- top: polls
+  path: /polls/poll_status
+- top: giveaways
+  path: /giveaways/giveaway_create
+- top: giveaways
+  path: /giveaways/giveaway_end
+- top: giveaways
+  path: /giveaways/giveaway_reroll
+- top: giveaways
+  path: /giveaways/giveaway_pause
+- top: giveaways
+  path: /giveaways/giveaway_resume
+- top: giveaways
+  path: /giveaways/giveaway_delete
+- top: giveaways
+  path: /giveaways/giveaway_list
+- top: giveaways
+  path: /giveaways/giveaway_view
+- top: giveaways
+  path: /giveaways/giveaway_require_role_add
+- top: giveaways
+  path: /giveaways/giveaway_require_role_del
+- top: giveaways
+  path: /giveaways/giveaway_blacklist_role_add
+- top: giveaways
+  path: /giveaways/giveaway_blacklist_role_del
+- top: giveaways
+  path: /giveaways/giveaway_bonus_entries_set
+- top: giveaways
+  path: /giveaways/giveaway_bonus_entries_clear
+- top: giveaways
+  path: /giveaways/giveaway_schedule
+- top: giveaways
+  path: /giveaways/giveaway_status
+- top: announcements
+  path: /announcements/announce_send
+- top: announcements
+  path: /announcements/announce_schedule
+- top: announcements
+  path: /announcements/announce_edit
+- top: announcements
+  path: /announcements/announce_delete
+- top: announcements
+  path: /announcements/announce_list
+- top: announcements
+  path: /announcements/announce_publish
+- top: announcements
+  path: /announcements/announce_crosspost
+- top: announcements
+  path: /announcements/announce_role_set
+- top: announcements
+  path: /announcements/announce_role_clear
+- top: announcements
+  path: /announcements/announce_channel_set
+- top: announcements
+  path: /announcements/announce_channel_clear
+- top: announcements
+  path: /announcements/announce_template_add
+- top: announcements
+  path: /announcements/announce_template_del
+- top: announcements
+  path: /announcements/announce_template_list
+- top: announcements
+  path: /announcements/announce_preview
+- top: announcements
+  path: /announcements/announce_status
+- top: tags
+  path: /tags/tag_add
+- top: tags
+  path: /tags/tag_edit
+- top: tags
+  path: /tags/tag_del
+- top: tags
+  path: /tags/tag_view
+- top: tags
+  path: /tags/tag_list
+- top: tags
+  path: /tags/tag_search
+- top: tags
+  path: /tags/tag_owner_set
+- top: tags
+  path: /tags/tag_alias_add
+- top: tags
+  path: /tags/tag_alias_del
+- top: tags
+  path: /tags/tag_alias_list
+- top: tags
+  path: /tags/tag_import
+- top: tags
+  path: /tags/tag_export
+- top: tags
+  path: /tags/tag_stats
+- top: tags
+  path: /tags/tag_claim
+- top: tags
+  path: /tags/tag_transfer
+- top: tags
+  path: /tags/tag_status
+- top: profiles
+  path: /profiles/profile_view
+- top: profiles
+  path: /profiles/profile_set_bio
+- top: profiles
+  path: /profiles/profile_set_pronouns
+- top: profiles
+  path: /profiles/profile_set_location
+- top: profiles
+  path: /profiles/profile_set_website
+- top: profiles
+  path: /profiles/profile_set_banner
+- top: profiles
+  path: /profiles/profile_set_accent
+- top: profiles
+  path: /profiles/profile_set_birthdate
+- top: profiles
+  path: /profiles/profile_badges_add
+- top: profiles
+  path: /profiles/profile_badges_del
+- top: profiles
+  path: /profiles/profile_badges_list
+- top: profiles
+  path: /profiles/profile_links_add
+- top: profiles
+  path: /profiles/profile_links_del
+- top: profiles
+  path: /profiles/profile_links_list
+- top: profiles
+  path: /profiles/profile_reset
+- top: profiles
+  path: /profiles/profile_status
+- top: voice
+  path: /voice/voice_lock
+- top: voice
+  path: /voice/voice_unlock
+- top: voice
+  path: /voice/voice_limit_set
+- top: voice
+  path: /voice/voice_limit_clear
+- top: voice
+  path: /voice/voice_bitrate_set
+- top: voice
+  path: /voice/voice_region_set
+- top: voice
+  path: /voice/voice_rename
+- top: voice
+  path: /voice/voice_transfer
+- top: voice
+  path: /voice/voice_mute_all
+- top: voice
+  path: /voice/voice_unmute_all
+- top: voice
+  path: /voice/voice_deafen_all
+- top: voice
+  path: /voice/voice_undeafen_all
+- top: voice
+  path: /voice/voice_move
+- top: voice
+  path: /voice/voice_kick
+- top: voice
+  path: /voice/voice_activity
+- top: voice
+  path: /voice/voice_status
+- top: music
+  path: /music/play
+- top: music
+  path: /music/pause
+- top: music
+  path: /music/resume
+- top: music
+  path: /music/stop
+- top: music
+  path: /music/skip
+- top: music
+  path: /music/queue
+- top: music
+  path: /music/queue_clear
+- top: music
+  path: /music/nowplaying
+- top: music
+  path: /music/volume
+- top: music
+  path: /music/loop
+- top: music
+  path: /music/shuffle
+- top: music
+  path: /music/seek
+- top: music
+  path: /music/remove
+- top: music
+  path: /music/lyrics
+- top: music
+  path: /music/autoplay
+- top: music
+  path: /music/music_status
+- top: images
+  path: /images/avatar
+- top: images
+  path: /images/banner
+- top: images
+  path: /images/server_icon
+- top: images
+  path: /images/server_banner
+- top: images
+  path: /images/emoji_enlarge
+- top: images
+  path: /images/sticker_enlarge
+- top: images
+  path: /images/invert
+- top: images
+  path: /images/grayscale
+- top: images
+  path: /images/blur
+- top: images
+  path: /images/deepfry
+- top: images
+  path: /images/caption
+- top: images
+  path: /images/overlay
+- top: images
+  path: /images/resize
+- top: images
+  path: /images/crop
+- top: images
+  path: /images/compress
+- top: images
+  path: /images/images_status
+- top: staff
+  path: /staff/staff_panel
+- top: staff
+  path: /staff/staff_apply
+- top: staff
+  path: /staff/staff_application_view
+- top: staff
+  path: /staff/staff_application_accept
+- top: staff
+  path: /staff/staff_application_reject
+- top: staff
+  path: /staff/staff_rank_set
+- top: staff
+  path: /staff/staff_rank_clear
+- top: staff
+  path: /staff/staff_shift_start
+- top: staff
+  path: /staff/staff_shift_end
+- top: staff
+  path: /staff/staff_shift_leaderboard
+- top: staff
+  path: /staff/staff_warning_add
+- top: staff
+  path: /staff/staff_warning_del
+- top: staff
+  path: /staff/staff_warning_list
+- top: staff
+  path: /staff/staff_audit
+- top: staff
+  path: /staff/staff_notes
+- top: staff
+  path: /staff/staff_status
+- top: antiabuse
+  path: /antiabuse/raidmode_on
+- top: antiabuse
+  path: /antiabuse/raidmode_off
+- top: antiabuse
+  path: /antiabuse/joinrate_threshold_set
+- top: antiabuse
+  path: /antiabuse/joinrate_threshold_clear
+- top: antiabuse
+  path: /antiabuse/quarantine_on
+- top: antiabuse
+  path: /antiabuse/quarantine_off
+- top: antiabuse
+  path: /antiabuse/lockdown_on
+- top: antiabuse
+  path: /antiabuse/lockdown_off
+- top: antiabuse
+  path: /antiabuse/massmention_on
+- top: antiabuse
+  path: /antiabuse/massmention_off
+- top: antiabuse
+  path: /antiabuse/newaccount_age_set
+- top: antiabuse
+  path: /antiabuse/newaccount_age_clear
+- top: antiabuse
+  path: /antiabuse/namefilter_on
+- top: antiabuse
+  path: /antiabuse/namefilter_off
+- top: antiabuse
+  path: /antiabuse/antiabuse_scan
+- top: antiabuse
+  path: /antiabuse/antiabuse_status
+- top: integrations
+  path: /integrations/rss_add
+- top: integrations
+  path: /integrations/rss_del
+- top: integrations
+  path: /integrations/rss_list
+- top: integrations
+  path: /integrations/rss_test
+- top: integrations
+  path: /integrations/webhook_add
+- top: integrations
+  path: /integrations/webhook_del
+- top: integrations
+  path: /integrations/webhook_list
+- top: integrations
+  path: /integrations/github_link
+- top: integrations
+  path: /integrations/github_unlink
+- top: integrations
+  path: /integrations/twitter_link
+- top: integrations
+  path: /integrations/twitter_unlink
+- top: integrations
+  path: /integrations/youtube_link
+- top: integrations
+  path: /integrations/youtube_unlink
+- top: integrations
+  path: /integrations/integration_sync
+- top: integrations
+  path: /integrations/integration_health
+- top: integrations
+  path: /integrations/integration_status
+- top: backup
+  path: /backup/backup_create
+- top: backup
+  path: /backup/backup_restore
+- top: backup
+  path: /backup/backup_list
+- top: backup
+  path: /backup/backup_delete
+- top: backup
+  path: /backup/backup_download
+- top: backup
+  path: /backup/backup_upload
+- top: backup
+  path: /backup/backup_schedule_set
+- top: backup
+  path: /backup/backup_schedule_clear
+- top: backup
+  path: /backup/backup_verify
+- top: backup
+  path: /backup/backup_diff
+- top: backup
+  path: /backup/backup_roles
+- top: backup
+  path: /backup/backup_channels
+- top: backup
+  path: /backup/backup_settings
+- top: backup
+  path: /backup/backup_automod
+- top: backup
+  path: /backup/backup_permissions
+- top: backup
+  path: /backup/backup_status
+- top: analytics
+  path: /analytics/analytics_overview
+- top: analytics
+  path: /analytics/analytics_messages
+- top: analytics
+  path: /analytics/analytics_activity
+- top: analytics
+  path: /analytics/analytics_growth
+- top: analytics
+  path: /analytics/analytics_retention
+- top: analytics
+  path: /analytics/analytics_joins
+- top: analytics
+  path: /analytics/analytics_leaves
+- top: analytics
+  path: /analytics/analytics_moderation
+- top: analytics
+  path: /analytics/analytics_tickets
+- top: analytics
+  path: /analytics/analytics_levels
+- top: analytics
+  path: /analytics/analytics_economy
+- top: analytics
+  path: /analytics/analytics_channels
+- top: analytics
+  path: /analytics/analytics_roles
+- top: analytics
+  path: /analytics/analytics_export
+- top: analytics
+  path: /analytics/analytics_refresh
+- top: analytics
+  path: /analytics/analytics_status
+- top: dev
+  path: /dev/dev_ping
+- top: dev
+  path: /dev/dev_eval_safe
+- top: dev
+  path: /dev/dev_sql_read
+- top: dev
+  path: /dev/dev_sql_write
+- top: dev
+  path: /dev/dev_cache_stats
+- top: dev
+  path: /dev/dev_cache_clear
+- top: dev
+  path: /dev/dev_task_list
+- top: dev
+  path: /dev/dev_task_cancel
+- top: dev
+  path: /dev/dev_feature_enable
+- top: dev
+  path: /dev/dev_feature_disable
+- top: dev
+  path: /dev/dev_config_get
+- top: dev
+  path: /dev/dev_config_set
+- top: dev
+  path: /dev/dev_command_sync
+- top: dev
+  path: /dev/dev_command_clear
+- top: dev
+  path: /dev/dev_gc
+- top: dev
+  path: /dev/dev_status
+- top: owner
+  path: /owner/global/globalban_add
+- top: owner
+  path: /owner/global/globalban_remove
+- top: owner
+  path: /owner/global/globalban_list
+- top: owner
+  path: /owner/global/globalban_reason
+- top: owner
+  path: /owner/global/globalban_sync
+- top: owner
+  path: /owner/global/globalunban_sync
+- top: owner
+  path: /owner/global/globalban_check
+- top: owner
+  path: /owner/global/globalban_export
+- top: owner
+  path: /owner/global/globalmute_add
+- top: owner
+  path: /owner/global/globalmute_remove
+- top: owner
+  path: /owner/global/globalmute_list
+- top: owner
+  path: /owner/global/globalkick
+- top: owner
+  path: /owner/global/globalsoftban
+- top: owner
+  path: /owner/global/globalquarantine
+- top: owner
+  path: /owner/global/globalscan
+- top: owner
+  path: /owner/global/globalstatus
+- top: owner
+  path: /owner/ops/owner_info
+- top: owner
+  path: /owner/ops/owner_set_status
+- top: owner
+  path: /owner/ops/owner_set_presence
+- top: owner
+  path: /owner/ops/owner_logs_export
+- top: owner
+  path: /owner/ops/owner_feature_flags
+- top: owner
+  path: /owner/ops/owner_db_health
+- top: owner
+  path: /owner/ops/owner_run_migrations
+- top: owner
+  path: /owner/ops/owner_cache_clear
+- top: owner
+  path: /owner/ops/owner_guild_allow_add
+- top: owner
+  path: /owner/ops/owner_guild_allow_remove
+- top: owner
+  path: /owner/ops/owner_guild_allow_list
+- top: owner
+  path: /owner/ops/owner_cmd_disable
+- top: owner
+  path: /owner/ops/owner_cmd_enable
+- top: owner
+  path: /owner/ops/owner_emergency_lockdown
+- top: owner
+  path: /owner/ops/owner_emergency_unlock
+- top: owner
+  path: /owner/ops/owner_version
+- top: misc
+  path: /misc/tools/paste
+- top: misc
+  path: /misc/tools/whois
+- top: misc
+  path: /misc/tools/id
+- top: misc
+  path: /misc/tools/snowflake_time
+- top: misc
+  path: /misc/tools/color_convert
+- top: misc
+  path: /misc/tools/base64
+- top: misc
+  path: /misc/tools/hash
+- top: misc
+  path: /misc/tools/uuid
+- top: misc
+  path: /misc/tools/ping_raw
+- top: misc
+  path: /misc/tools/perms_diag
+- top: misc
+  path: /misc/tools/rate_limits
+- top: misc
+  path: /misc/tools/json_validate
+- top: misc
+  path: /misc/tools/markdown_escape
+- top: misc
+  path: /misc/tools/text_diff
+- top: misc
+  path: /misc/tools/timezones
+- top: misc
+  path: /misc/extras/afk_set
+- top: misc
+  path: /misc/extras/afk_clear
+- top: misc
+  path: /misc/extras/afk_status
+- top: misc
+  path: /misc/extras/quicknote_add
+- top: misc
+  path: /misc/extras/quicknote_list
+- top: misc
+  path: /misc/extras/quicknote_del
+- top: misc
+  path: /misc/extras/template_add
+- top: misc
+  path: /misc/extras/template_list
+- top: misc
+  path: /misc/extras/template_del
+- top: misc
+  path: /misc/extras/cleanlinks
+- top: misc
+  path: /misc/extras/roleping_check
+- top: misc
+  path: /misc/extras/channel_health
+- top: misc
+  path: /misc/extras/message_stats
+- top: misc
+  path: /misc/extras/mini_backup
+- top: misc
+  path: /misc/extras/mini_restore
